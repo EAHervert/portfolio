@@ -8,9 +8,9 @@
 
 ## Contact
 
-- 📧 esauhervert@utexas.edu
-- 🔗 LinkedIn
-- 🐙 GitHub
+- 📧 [esauhervert@utexas.edu](mailto:esauhervert@utexas.edu)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ehervert/)
+- 🐙 [GitHub](https://github.com/EAHervert)
 
 ## Education
 
@@ -34,21 +34,23 @@
 
 ## Publications
 
-- **Hervert Hernandez, E.A.**, Cao, Y., & Kehtarnavaz, N. (2025). Computationally Efficient Neural Architecture Search for Image Denoising. *IEEE Access*, 13, 60743–60762.
-- **Hervert Hernandez, E.A.**, Cao, Y., & Kehtarnavaz, N. (2022). Deep learning architecture search for real-time image denoising. *Proc. SPIE 12102, Real-Time Image Processing and Deep Learning 2022*, 1210205.
+- **Hervert Hernandez, E.A.**, Cao, Y., & Kehtarnavaz, N. (2025). [Computationally Efficient Neural Architecture Search for Image Denoising](https://doi.org/10.1109/ACCESS.2025.3557691). *IEEE Access*, 13, 60743–60762.
+- **Hervert Hernandez, E.A.**, Cao, Y., & Kehtarnavaz, N. (2022). [Deep learning architecture search for real-time image denoising](https://doi.org/10.1117/12.2620349). *Proc. SPIE 12102, Real-Time Image Processing and Deep Learning 2022*, 1210205.
 
 ## Projects
 
-- **enas-networks** — Reference implementation for *Computationally Efficient Neural Architecture Search for Image Denoising* (IEEE Access, 2025).
+- [**enas-networks**](https://github.com/EAHervert/enas-networks) — Reference implementation for *Computationally Efficient Neural Architecture Search for Image Denoising* (IEEE Access, 2025).
     - RL-controlled NAS
     - DHDN-based architectures
     - Jensen–Shannon dataset subsampling
 
-    !Graphical abstract — Computationally Efficient NAS for Image Denoising
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EAHervert/enas-networks/main/assets/graphical-abstract.jpg" alt="Graphical abstract — Computationally Efficient NAS for Image Denoising" />
+</p>
 
 ## Technical Skills
 
-- **Machine Learning & AI:** Deep Learning, Computer Vision, Reinforcement Learning, Neural Architecture Search, Model Training
+- **Machine Learning & AI:** Deep Learning, Computer Vision, Reinforcement Learning, Model Training
 - **Signal & Image Processing:** Image Denoising, Seismic Imaging
 - **Programming:** Python, C++, MATLAB, PyTorch
 - **Cloud & Tools:** AWS, SageMaker, Linux, Git
